@@ -1,4 +1,5 @@
 import Home from "./Home";
+import "./index.css";
 // import Create from "./Create";
 
 const App = () => {
