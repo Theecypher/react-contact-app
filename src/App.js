@@ -5,7 +5,7 @@ import "./index.css";
 const App = () => {
   return (
     <div className="App">
-      <h1>Simple React Contact App</h1>
+      <h1>React Contact App</h1>
 
       <header className="header">
         <div className="logo"></div>
